@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@graphcms/management@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@graphcms/management/-/management-1.1.0.tgz#7799d4faf010102dd0a142c60df230f9ead0cb43"
-  integrity sha512-jN+qu06BvvX2fK+tz8Po1ySV43ls4iLqQzNxVyoCyHZTwKEQPOVkvp4TRpusTOkuTxyOeI5r+s1GnKfUeQdPdQ==
+"@graphcms/management@1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@graphcms/management/-/management-1.6.0.tgz#4100ea9b3bbea671e0cd46c57f5b7bb609afa5ed"
+  integrity sha512-gXMjaf/1rgtLt5TI+vaVB3z+zJ0c21JH2y30Jhvi1aInm4yEPd/L+pL9jR+I+8sPf7nklA1bDA+N7zE+urtPtw==
   dependencies:
     "@types/nanoid" "2.1.0"
     graphql "15.5.0"
@@ -48,10 +48,10 @@ delayed-stream@~1.0.0:
   resolved "https://registry.yarnpkg.com/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
   integrity sha1-3zrhmayt+31ECqrgsp4icrJOxhk=
 
-dotenv@10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-10.0.0.tgz#3d4227b8fb95f81096cdd2b66653fb2c7085ba81"
-  integrity sha512-rlBi9d8jpv9Sf1klPjNfFAuWDjKLwTIJJ/VxtoTwIR6hnZxcEOQCZg2oIL3MWBYw5GpUDKOEnND7LXTbIpQ03Q==
+dotenv@16.0.1:
+  version "16.0.1"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.0.1.tgz#8f8f9d94876c35dac989876a5d3a82a267fdce1d"
+  integrity sha512-1K6hR6wtk2FviQ4kEiSjFiH5rpzEVi8WW0x96aztHVMhEspNpc4DVOUTEHtEva5VThQ8IaBX1Pe4gSzpVVUsKQ==
 
 extract-files@^9.0.0:
   version "9.0.0"
